@@ -6,7 +6,7 @@ export default function tupleSample() {
   console.log('Array tuple sample 1:', response)
 
   //可変長引数を使ったタプル
-  const girlFiriends: [string, ...string[]] = ['Kana', 'Miku', 'Keiko']
-  girlFiriends.push('Misa')
-  console.log('Array tuple sample 2:', girlFiriends)
+  const girlfiriends: [string, ...string[]] = ['Kana', 'Miku', 'Keiko']
+  girlfiriends.push('Misa')
+  console.log('Array tuple sample 2:', girlfiriends)
 }
