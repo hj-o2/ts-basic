@@ -22,3 +22,9 @@
 // isUserSignedIn2("ABC")
 // const sum = sumProductsPrice(100, 200, 300, 400, 500)
 // console.log('Function parameters sample 5:', sum);
+
+// 06.配列とタプルの型定義
+import arraySample from './array/array'
+import tupleSample from './array/tuple'
+arraySample()
+tupleSample()
