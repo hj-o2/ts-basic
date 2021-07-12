@@ -45,5 +45,14 @@
 // #09.TypeScriptで学ぶオブジェクト指向開発
 
 // #10.インターフェイスとtypeエイリアス
-import interfaceSample from './interface/interface'
-interfaceSample()
+// import interfaceSample from './interface/interface'
+// interfaceSample()
+
+// #11.非同期処理
+// import callbackSample from "./asynchronous/callback"
+// import promiseSample from "./asynchronous/promise"
+import asyncAwaitSample from './asynchronous/asuncAwait'
+
+// callbackSample()
+// promiseSample()
+asyncAwaitSample()
